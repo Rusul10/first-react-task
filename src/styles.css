@@ -1,0 +1,26 @@
+body {
+  background-color: mediumvioletred;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: blue;
+}
+
+.home {
+  background-color: gold;
+}
+
+.imglogo {
+  width: 20%;
+}
+
+button {
+  background-color: white;
+  border: 2px solid black;
+  font-size: 20px;
+}
